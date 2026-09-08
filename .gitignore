@@ -60,6 +60,9 @@ key.properties
 *.db
 *.sqlite
 *.sqlite3
+google-services.json
+**/google-services.json
+GoogleService-Info.plist
 google-services.json.bak
 serviceAccountKey*.json
 firebase-service-account*.json

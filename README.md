@@ -45,7 +45,7 @@ flutter run
 
 ## Firebase Setup
 
-This project uses Firebase for authentication and cloud sync. **You must connect it to your own Firebase project** — the configuration files committed to this repo are placeholders from a demo project (`jurnaling-trade`) and will not work for you.
+This project uses Firebase for authentication and cloud sync. **You must connect it to your own Firebase project** — the Firebase configuration file is intentionally **not committed** to this repo (it is gitignored, see `.gitignore`).
 
 1. Create a new project at the [Firebase Console](https://console.firebase.google.com/).
 2. Register an **Android app** in your Firebase project.
